@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://podcasts.neutronfile.org/neutronfile.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://podcasts.neutronfile.org/" rel="next" type="application/rss+xml"/>
+        <title>NeutronFile | نيوترون فايل</title>
+        <link>https://podcasts.neutronfile.org</link>
+        <pubDate>Fri, 19 Nov 2021 09:25:13 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Nov 2021 09:25:13 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ar</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>NeutronFile</webMaster>
+        <description>نيوترون فايل بودكاست تابع لمدونة نيوترون فايل .</description>
+        <itunes:subtitle>نيوترون فايل بودكاست تابع لمدونة نيوترون فايل .</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Neutron File</itunes:name>
+          <itunes:email>neutronfile19@icloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>NeutronFile</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://raw.githubusercontent.com/neutronfile/Pdcasts.github.io/main/avatars-pd.jpg"/>
+        <image>
+          <url>https://raw.githubusercontent.com/neutronfile/Pdcasts.github.io/main/avatars-pd.jpg</url>
+          <title>Neutron File</title>
+          <link>https://podcasts.neutronfile.org</link>
+        </image>
+        <itunes:category text="Education"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1162979773</guid>
+      <title>Redouan _ حسبنا انا نسير معا _ محمود درويش .mp3</title>
+      <pubDate>Sat, 04 Dec 2021 19:51:40 +0000</pubDate>
+      <link>https://podcasts.neutronfile.org/redouane.mpga.mp3</link>
+      <itunes:duration>00:01:29</itunes:duration>
+      <itunes:author>NeutronFile</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>حسبنا انا نسير معا  محمود درويش من اوراق الزيتون.
+قراءة صاحب الصوت الجشي رضوان .
+حسابه فيسبوك :RADOUANE.ELHADROURI</itunes:summary>
+      <itunes:subtitle>حسبنا انا نسير معا  محمود درويش من اوراق الزيتون.…</itunes:subtitle>
+      <description>حسبنا انا نسير معا  محمود درويش من اوراق الزيتون.
+قراءة صاحب الصوت الجشي رضوان .
+حسابه فيسبوك :RADOUANE.ELHADROURI</description>
+      <enclosure type="audio/mpeg" url="https://github.com/neutronfile/Pdcasts.github.io/blob/main/redouane.mpga.mp3" length="733608"/>
+      <itunes:image href="https://raw.githubusercontent.com/neutronfile/Pdcasts.github.io/main/redouan.jpg"/>
+    </item>
+      </channel>
+    </rss>
